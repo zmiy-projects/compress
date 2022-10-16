@@ -4,7 +4,7 @@
 # install
 
 ```bash
-go get -u github.com/ZmiyProjects/compress
+go get -u github.com/zmiy-projects/compress
 ```
 
 # examples
@@ -14,7 +14,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ZmiyProjects/compress"
+	"github.com/zmiy-projects/compress"
 )
 
 func main() {

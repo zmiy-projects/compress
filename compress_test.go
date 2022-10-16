@@ -1,4 +1,4 @@
-package compressions
+package compress
 
 import (
 	"strings"
